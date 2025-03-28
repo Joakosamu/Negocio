@@ -1,0 +1,13 @@
+codigo,descripcion,precio,maximo,minimo,clasificacion,proveedor,existencias
+JB-8,Piedra para afilar amarilla,367.23,20,5,accesorios,Importadora Raza,20
+HF-25,Congelador de dos puertas Imbera,21548.0,20,5,refrigeracion,Imbera,15
+HCVA-20,Horno de conveccion de vapor,15978.23,10,3,coccion,Torrey,3
+TVC-16,Refrigerador de dos puertas,22387.0,10,3,refrigeracion,Torrey,8
+HF-10,Congelador de 1 puerta de vidrio,15687.23,10,3,refrigeracion,Imbera,0
+LPCR-40,Bascula de 40 kg acero inoxidable,2345.89,20,5,pesaje,Rhino,10
+5.700023,Cuchillo chef 8 pulg.,894.0,30,10,cuchillos,Victorinox,0
+CVA-30,Refrigerador cervecero 3 puertas,89456.0,12,4,refrigeracion,Torrey,0
+RBA-10,Nave espacial,100000.0,10,2,aeronave,SpaceX,6
+TRIPA,TRIPA 5/8 CELULOSA,67.0,800,400,ARTICULOS CARNICERIA,Importadora Raza,200
+R2-D2,Droide con llantas,50000,6,2,robot,Samsung,0
+C3PO,Droide humanoide,70000,8,3,robot,Samsung,0
